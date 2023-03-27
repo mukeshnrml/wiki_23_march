@@ -69,9 +69,7 @@ h2,h6{
 /* Slider --- */
 
 .carousel-item img {
-	height: 600px;
 	object-fit: cover;
-	width: 1400px;
   }
   
   .carousel-control-prev, .carousel-control-next {
